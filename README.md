@@ -1,3 +1,3 @@
 # git-practice
 This is where I practice Git. 
-And try out crazy stuff.
+I'm trying to git comfortable. 
